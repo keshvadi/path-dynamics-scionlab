@@ -1,0 +1,147 @@
+\begin{thebibliography}{10}
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\bibcommenthead
+
+\bibitem[\protect\citeauthoryear{Boldrini et~al.}{2024}]{boldrini2024ms4pan}
+Boldrini L, Battipaglia A, Hesselman C, Grosso P.
+\newblock MS4PAN: Measurement System for Path-Aware Networks.
+\newblock In: 2024 IEEE 13th International Conference on Cloud Networking (CloudNet). IEEE; 2024. p. 1--7.
+
+\bibitem[\protect\citeauthoryear{Giaconia et~al.}{2025}]{giaconia2025crunching}
+Giaconia A, Tran M, Vanbever L, Vissicchio S.
+\newblock Is Crunching Public Data the Right Approach to Detect BGP Hijacks?
+\newblock arXiv preprint arXiv:250720434. 2025;.
+
+\bibitem[\protect\citeauthoryear{Borges et~al.}{2024}]{borges2024pot}
+Borges ES, Martinello M, Bonella VB, dos Santos AJ, Gomes RL, Dominicini CK, et~al.
+\newblock Pot-polka: Let the edge control the proof-of-transit in path-aware networks.
+\newblock IEEE Transactions on Network and Service Management. 2024;21(4):3681--3691.
+
+\bibitem[\protect\citeauthoryear{Jadin et~al.}{2022}]{jadin2022leveraging}
+Jadin M, De~Coninck Q, Navarre L, Schapira M, Bonaventure O.
+\newblock Leveraging eBPF to make TCP path-aware.
+\newblock IEEE Transactions on Network and Service Management. 2022;19(3):2827--2838.
+
+\bibitem[\protect\citeauthoryear{Clark}{2018}]{clark2018designing}
+Clark DD.
+\newblock Designing an internet.
+\newblock MIT Press; 2018.
+
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2011}]{zhang2011scion}
+Zhang X, Hsiao HC, Hasker G, Chan H, Perrig A, Andersen DG.
+\newblock SCION: Scalability, control, and isolation on next-generation networks.
+\newblock In: 2011 IEEE Symposium on Security and Privacy. IEEE; 2011. p. 212--227.
+
+\bibitem[\protect\citeauthoryear{AG}{2025}]{anapaya2025}
+AG AS.: Secure, resilient, and controlled connectivity with SCION.
+\newblock Accessed: 2025-08-11.
+\newblock \url{https://www.anapaya.net/}.
+
+\bibitem[\protect\citeauthoryear{Ford et~al.}{2020}]{rfc8684}
+Ford A, Raiciu C, Handley MJ, Bonaventure O, Paasch C.: {TCP Extensions for Multipath Operation with Multiple Addresses}.
+\newblock RFC Editor.
+\newblock RFC 8684.
+\newblock Available from: \url{https://www.rfc-editor.org/info/rfc8684}.
+
+\bibitem[\protect\citeauthoryear{De~Coninck and Bonaventure}{2017}]{de2017multipath}
+De~Coninck Q, Bonaventure O.
+\newblock Multipath quic: Design and evaluation.
+\newblock In: Proceedings of the 13th international conference on emerging networking experiments and technologies; 2017. p. 160--166.
+
+\bibitem[\protect\citeauthoryear{Liu et~al.}{2025}]{ietf-quic-multipath-15}
+Liu Y, Ma Y, Coninck QD, Bonaventure O, Huitema C, Kühlewind M.
+\newblock {Multipath Extension for QUIC}.
+\newblock Internet Engineering Task Force; 2025. draft-ietf-quic-multipath-15.
+\newblock Work in Progress.
+\newblock Available from: \url{https://datatracker.ietf.org/doc/draft-ietf-quic-multipath/15/}.
+
+\bibitem[\protect\citeauthoryear{Kr{\"u}ger and Hausheer}{2021}]{kruger2021early}
+Kr{\"u}ger T, Hausheer D.
+\newblock Early Work: Path Selection in a Path-aware Network Architecture.
+\newblock Electronic Communications of the EASST. 2021;80.
+
+\bibitem[\protect\citeauthoryear{Christodoulou and Koutsoupias}{2005}]{CK05}
+Christodoulou G, Koutsoupias E.
+\newblock The price of anarchy of finite congestion games.
+\newblock In: Proceedings of the thirty-seventh annual ACM symposium on Theory of computing; 2005. p. 67--73.
+
+\bibitem[\protect\citeauthoryear{Kwon et~al.}{2020}]{kwon2020scionlab}
+Kwon J, Garc{\'\i}a-Pardo JA, Legner M, Wirz F, Frei M, Hausheer D, et~al.
+\newblock SCIONLab: A next-generation Internet testbed.
+\newblock In: 2020 IEEE 28th International Conference on Network Protocols (ICNP). IEEE; 2020. p. 1--12.
+
+\bibitem[\protect\citeauthoryear{Kr{\"a}henb{\"u}hl et~al.}{2024}]{krahenbuhl2024glids}
+Kr{\"a}henb{\"u}hl C, Tabaeiaghdaei S, Scherrer S, Frei M, Perrig A.
+\newblock GLIDS: A global latency information dissemination system.
+\newblock arXiv preprint arXiv:240504319. 2024;.
+
+\bibitem[\protect\citeauthoryear{Chuat et~al.}{2022}]{chuat2022complete}
+Chuat L, Legner M, Basin D, Hausheer D, Hitz S, M{\"u}ller P, et~al.
+\newblock The complete guide to scion.
+\newblock Information Security and Cryptography. 2022;.
+
+\bibitem[\protect\citeauthoryear{Koole and Pawlus}{2023}]{koole2023comparative}
+Koole K, Pawlus M.
+\newblock A Comparative Analysis of Routing Policies in BGP and SCION.
+\newblock 2STiC. 2023;.
+
+\bibitem[\protect\citeauthoryear{Kr{\"a}henb{\"u}hl et~al.}{2021}]{krahenbuhl2021deployment}
+Kr{\"a}henb{\"u}hl C, Tabaeiaghdaei S, Gloor C, Kwon J, Perrig A, Hausheer D, et~al.
+\newblock Deployment and scalability of an inter-domain multi-path routing infrastructure.
+\newblock In: Proceedings of the 17th International Conference on emerging Networking EXperiments and Technologies; 2021. p. 126--140.
+
+\bibitem[\protect\citeauthoryear{Kr{\"u}ger et~al.}{2023}]{kruger2023path}
+Kr{\"u}ger T, Beck C, Hausheer D.
+\newblock Path oracle: Improving performance of path-aware applications in scion.
+\newblock In: 2023 19th International Conference on Network and Service Management (CNSM). IEEE; 2023. p. 1--5.
+
+\bibitem[\protect\citeauthoryear{Alimi et~al.}{2014}]{rfc7285}
+Alimi R, Penno R, Yang Y, Kiesel S, Previdi S, Woundy R, et~al.: {Application-Layer Traffic Optimization (ALTO) Protocol}.
+\newblock RFC Editor.
+\newblock RFC 7285.
+\newblock Available from: \url{https://www.rfc-editor.org/info/rfc7285}.
+
+\bibitem[\protect\citeauthoryear{Hesselman et~al.}{2020}]{hesselman2020responsible}
+Hesselman C, Grosso P, Holz R, Kuipers F, Xue JH, Jonker M, et~al.
+\newblock A responsible internet to increase trust in the digital world.
+\newblock Journal of Network and Systems Management. 2020;28(4):882--922.
+
+\bibitem[\protect\citeauthoryear{John et~al.}{2023}]{john2023dmtp}
+John T, Perrig A, Hausheer D.
+\newblock Dmtp: Deadline-aware multipath transport protocol.
+\newblock In: 2023 IFIP Networking Conference (IFIP Networking). IEEE; 2023. p. 1--9.
+
+\bibitem[\protect\citeauthoryear{Gartner et~al.}{2023}]{gartner2023hercules}
+Gartner M, Smith JP, Frei M, Wirz F, Neukom C, Hausheer D, et~al.
+\newblock Hercules: High-speed bulk-transfer over scion.
+\newblock In: 2023 IFIP Networking Conference (IFIP Networking). IEEE; 2023. p. 1--9.
+
+\bibitem[\protect\citeauthoryear{van Rijswijk-Deij and de~Laat}{2023}]{vanrijswijk2023sciontestbed}
+van Rijswijk-Deij L, de~Laat C.: {SCION Performance Testbed Evaluation}.
+\newblock Accessed: 2025-07-23.
+\newblock SC23 INDIS Presentation.
+\newblock Available from: \url{https://delaat.net/sc/sc23/indis/S4-4-sc23_presenter_leo.pdf}.
+
+\bibitem[\protect\citeauthoryear{Battipaglia et~al.}{2023}]{battipaglia2023evaluation}
+Battipaglia A, Boldrini L, Koning R, Grosso P.
+\newblock Evaluation of scion for user-driven path control: A usability study.
+\newblock In: Proceedings of the SC'23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis; 2023. p. 785--794.
+
+\bibitem[\protect\citeauthoryear{Herschbach et~al.}{2025}]{github-scionlab-data}
+Herschbach L, Rossi D, Keshvadi S.: SCIONLab Path Dynamics Measurement Suite and Dataset.
+\newblock GitHub.
+\newblock \url{https://github.com/Keshvadi/path-dynamics-scionlab}.
+
+\bibitem[\protect\citeauthoryear{van Bommel et~al.}{2026}]{zaeschke-scion-quic-multipath-01}
+van Bommel J, Wirz F, Z{\"a}schke T.
+\newblock {Guidelines for QUIC Multipath over SCION}.
+\newblock Internet Engineering Task Force; 2026. draft-zaeschke-scion-quic-multipath-01.
+\newblock Work in Progress.
+\newblock Available from: \url{https://datatracker.ietf.org/doc/draft-zaeschke-scion-quic-multipath/01/}.
+
+\bibitem[\protect\citeauthoryear{Paxson}{1996}]{paxson1997end}
+Paxson V.
+\newblock End-to-end routing behavior in the Internet.
+\newblock ACM SIGCOMM Computer Communication Review. 1996;26(4):25--38.
+
+\end{thebibliography}
