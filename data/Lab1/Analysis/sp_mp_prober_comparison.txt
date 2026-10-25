@@ -1,0 +1,12 @@
+=== SCION SP vs MP Prober Path Comparison ===
+
+Loading SP data...
+Loading MP data...
+Matching and comparing paths...
+
+→ Matched Fingerprints: 5792
+→ Avg RTT difference (SP - MP): -0.2 ms
+→ Avg Jitter difference (SP - MP): -1.3 ms
+→ Avg Loss difference (SP - MP): -0.24 %
+
+[Saved comparison results to sp_mp_prober_comparison.txt]

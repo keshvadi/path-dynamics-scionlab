@@ -1,0 +1,21 @@
+{
+  "19-ffaa:0:1303": [
+    {
+      "path_index": 0,
+      "fingerprint": "3254fd1c0677f3b4",
+      "sequence": "19-ffaa:1:11de -> 19-ffaa:0:1303"
+    }
+  ],
+  "18-ffaa:0:1201": [
+    {
+      "path_index": 3,
+      "fingerprint": "282ba828c81813b5",
+      "sequence": "19-ffaa:1:11de -> 19-ffaa:0:1303 -> 19-ffaa:0:1301 -> 17-ffaa:0:1108 -> 17-ffaa:0:1101 -> 18-ffaa:0:1201"
+    },
+    {
+      "path_index": 13,
+      "fingerprint": "52243e631173bc2c",
+      "sequence": "19-ffaa:1:11de -> 19-ffaa:0:1303 -> 19-ffaa:0:1301 -> 19-ffaa:0:1305 -> 17-ffaa:0:1108 -> 17-ffaa:0:1101 -> 20-ffaa:0:1401 -> 18-ffaa:0:1201"
+    }
+  ]
+}

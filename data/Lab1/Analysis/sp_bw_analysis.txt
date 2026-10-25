@@ -1,0 +1,151 @@
+=== SCION Bandwidth Test Summary ===
+  - Tier:         10 Mbps
+    Files:        1281
+
+    [S→C]
+      Count:           2542
+      Avg BW:          10.0 Mbps
+      BW Jitter:       0.01 Mbps
+      BW Min/Max:      9.65 / 10.0 Mbps
+      Avg Loss:        0.01%
+      Loss Jitter:     0.09%
+      Interarrival:    0.8 ms
+      IA Jitter:       3.13 ms
+      IA Min/Max:      0.005 / 279.2 ms
+
+    [C→S]
+      Count:           2542
+      Avg BW:          10.0 Mbps
+      BW Jitter:       0.02 Mbps
+      BW Min/Max:      9.08 / 10.0 Mbps
+      Avg Loss:        0.01%
+      Loss Jitter:     0.24%
+      Interarrival:    0.8 ms
+      IA Jitter:       3.19 ms
+      IA Min/Max:      0.006 / 289.02 ms
+
+  - Tier:         50 Mbps
+    Files:        1281
+
+    [S→C]
+      Count:           2412
+      Avg BW:          49.2 Mbps
+      BW Jitter:       0.81 Mbps
+      BW Min/Max:      41.58 / 50.0 Mbps
+      Avg Loss:        1.6%
+      Loss Jitter:     1.62%
+      Interarrival:    0.16 ms
+      IA Jitter:       3.67 ms
+      IA Min/Max:      0.005 / 63.26 ms
+
+    [C→S]
+      Count:           2412
+      Avg BW:          47.72 Mbps
+      BW Jitter:       2.7 Mbps
+      BW Min/Max:      22.1 / 50.0 Mbps
+      Avg Loss:        4.55%
+      Loss Jitter:     5.39%
+      Interarrival:    0.17 ms
+      IA Jitter:       8.94 ms
+      IA Min/Max:      0.006 / 355.56 ms
+
+  - Tier:         100 Mbps
+    Files:        1281
+
+    [S→C]
+      Count:           1306
+      Avg BW:          87.09 Mbps
+      BW Jitter:       4.25 Mbps
+      BW Min/Max:      62.11 / 95.61 Mbps
+      Avg Loss:        12.91%
+      Loss Jitter:     4.25%
+      Interarrival:    0.09 ms
+      IA Jitter:       4.21 ms
+      IA Min/Max:      0.005 / 100.06 ms
+
+    [C→S]
+      Count:           1306
+      Avg BW:          65.4 Mbps
+      BW Jitter:       7.49 Mbps
+      BW Min/Max:      19.59 / 86.31 Mbps
+      Avg Loss:        34.6%
+      Loss Jitter:     7.49%
+      Interarrival:    0.12 ms
+      IA Jitter:       8.81 ms
+      IA Min/Max:      0.006 / 413.08 ms
+
+  - Tier:         10 Mbps
+    Files:        1281
+
+    [S→C]
+      Count:           1256
+      Avg BW:          10.0 Mbps
+      BW Jitter:       0.0 Mbps
+      BW Min/Max:      9.96 / 10.0 Mbps
+      Avg Loss:        0.0%
+      Loss Jitter:     0.02%
+      Interarrival:    0.8 ms
+      IA Jitter:       2.79 ms
+      IA Min/Max:      0.005 / 31.87 ms
+
+    [C→S]
+      Count:           1256
+      Avg BW:          10.0 Mbps
+      BW Jitter:       0.0 Mbps
+      BW Min/Max:      9.98 / 10.0 Mbps
+      Avg Loss:        0.0%
+      Loss Jitter:     0.01%
+      Interarrival:    0.8 ms
+      IA Jitter:       2.85 ms
+      IA Min/Max:      0.006 / 90.83 ms
+
+  - Tier:         50 Mbps
+    Files:        1281
+
+    [S→C]
+      Count:           1258
+      Avg BW:          49.53 Mbps
+      BW Jitter:       0.58 Mbps
+      BW Min/Max:      37.19 / 50.0 Mbps
+      Avg Loss:        0.93%
+      Loss Jitter:     1.16%
+      Interarrival:    0.16 ms
+      IA Jitter:       3.4 ms
+      IA Min/Max:      0.005 / 50.92 ms
+
+    [C→S]
+      Count:           1258
+      Avg BW:          48.01 Mbps
+      BW Jitter:       2.16 Mbps
+      BW Min/Max:      0.05 / 50.0 Mbps
+      Avg Loss:        3.97%
+      Loss Jitter:     4.33%
+      Interarrival:    0.17 ms
+      IA Jitter:       9.16 ms
+      IA Min/Max:      0.006 / 380.71 ms
+
+  - Tier:         100 Mbps
+    Files:        1281
+
+    [S→C]
+      Count:           714
+      Avg BW:          89.1 Mbps
+      BW Jitter:       4.12 Mbps
+      BW Min/Max:      67.82 / 97.28 Mbps
+      Avg Loss:        10.9%
+      Loss Jitter:     4.12%
+      Interarrival:    0.09 ms
+      IA Jitter:       4.17 ms
+      IA Min/Max:      0.005 / 216.48 ms
+
+    [C→S]
+      Count:           714
+      Avg BW:          65.75 Mbps
+      BW Jitter:       7.6 Mbps
+      BW Min/Max:      32.73 / 91.82 Mbps
+      Avg Loss:        34.25%
+      Loss Jitter:     7.6%
+      Interarrival:    0.12 ms
+      IA Jitter:       10.41 ms
+      IA Min/Max:      0.006 / 363.61 ms
+

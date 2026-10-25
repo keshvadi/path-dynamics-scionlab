@@ -1,0 +1,49 @@
+=== SCION Path Comparer Analysis ===
+
+Comparer data summary:
+
+→ Destination AS: 17-ffaa:1:11e4
+   Total comparisons: 1281
+   Change events: 163
+   Added paths: 144
+   Removed paths: 164
+   Avg path length of changes: 8.32
+   Avg path lifetime sec: 181737.5
+
+→ Destination AS: 19-ffaa:1:11de
+   Total comparisons: 1281
+   Change events: 247
+   Added paths: 671
+   Removed paths: 676
+   Avg path length of changes: 8.82
+   Avg path lifetime sec: 56955.18
+
+→ Destination AS: 22-ffaa:1:11ee
+   Total comparisons: 1281
+   Change events: 0
+   Added paths: 0
+   Removed paths: 0
+   Avg path length of changes: 0
+   Avg path lifetime sec: None
+
+=== Global Churn Insights ===
+Top ASes in changing paths:
+  18-ffaa:1:11e5            → 1655 path changes
+  18-ffaa:0:1206            → 1655 path changes
+  18-ffaa:0:1201            → 1655 path changes
+  19-ffaa:0:1301            → 1557 path changes
+  17-ffaa:0:1101            → 1487 path changes
+  19-ffaa:0:1303            → 1347 path changes
+  19-ffaa:1:11de            → 1347 path changes
+  17-ffaa:0:1108            → 1074 path changes
+  19-ffaa:0:1305            → 762 path changes
+  20-ffaa:0:1401            → 514 path changes
+
+Churn by path length:
+  Length 6: 79 changes
+  Length 7: 128 changes
+  Length 8: 274 changes
+  Length 9: 867 changes
+  Length 10: 295 changes
+  Length 11: 12 changes
+[Saved figures as .png files]

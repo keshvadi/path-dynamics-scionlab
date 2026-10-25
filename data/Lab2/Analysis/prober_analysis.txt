@@ -1,0 +1,20 @@
+=== SCION Prober Latency & Loss Analysis ===
+
+ Summary:
+
+→ Destination IA: 19-ffaa:1:11de
+   Probes:        15025
+   Avg RTT:       470.54 ms
+   Jitter:        205.07 ms
+   Avg Loss:      0.34%
+   Loss Jitter:   2.6%
+   Seq issues:    0 of 15025 probes
+
+→ Destination IA: 18-ffaa:1:11e5
+   Probes:        15333
+   Avg RTT:       355.51 ms
+   Jitter:        80.26 ms
+   Avg Loss:      0.32%
+   Loss Jitter:   2.34%
+   Seq issues:    0 of 15333 probes
+

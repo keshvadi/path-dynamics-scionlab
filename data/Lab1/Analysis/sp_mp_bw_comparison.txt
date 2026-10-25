@@ -1,0 +1,18 @@
+=== SP vs MP Bandwidth Comparison ===
+
+Loading SP bandwidth data...
+Loading MP bandwidth data...
+Comparing matched paths...
+
+→ Matched paths: 3832
+
+→ Avg diff CS BW: 0.218
+→ Avg diff CS IA AVG: -0.102
+→ Avg diff CS IA MDEV: 0.826
+→ Avg diff CS LOSS: -12.013
+→ Avg diff SC BW: -8.289
+→ Avg diff SC IA AVG: -0.09
+→ Avg diff SC IA MDEV: -0.157
+→ Avg diff SC LOSS: -4.245
+
+[Saved output to sp_mp_bw_comparison.txt]
